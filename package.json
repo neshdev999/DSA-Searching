@@ -1,0 +1,19 @@
+{
+  "name": "dsa-searching",
+  "version": "1.0.0",
+  "description": "DSA Searching",
+  "main": "BinarySearchTree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neshdev999/DSA-Searching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neshdev999/DSA-Searching/issues"
+  },
+  "homepage": "https://github.com/neshdev999/DSA-Searching#readme"
+}
